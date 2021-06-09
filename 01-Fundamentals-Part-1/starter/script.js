@@ -3,6 +3,10 @@
 
 // // console.log(2+3)
 
+// Constant now = 2037
+// const ageJogas = 1991cont ageSarah = now
 
 
+let myFirstJob = "Programmer";
 
+console.log(myFirstJob)
