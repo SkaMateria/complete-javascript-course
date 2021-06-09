@@ -7,6 +7,16 @@
 // const ageJogas = 1991cont ageSarah = now
 
 
-let myFirstJob = "Programmer";
+// let myFirstJob = "Programmer";
 
-console.log(myFirstJob)
+// console.log(myFirstJob)
+
+// console.log(true)
+
+// console.log(typeof 31)
+
+// let bigBig = "Nothing"
+
+// bigBig = true
+
+
