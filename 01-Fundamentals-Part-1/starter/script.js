@@ -56,3 +56,41 @@
 
 // console.log(`Let's see if this works ${test}`)
 
+
+// const day = 'monday';
+
+// switch(day) {
+//   case 'monday':
+//     console.log('Plan course structure');
+//     console.log('Go to coding meetup');
+//     break;
+//   case 'tuesday':
+//     console.log('prepare theory videos');
+//     break;
+//   case 'wednesday':
+//   case 'thursday':
+//     console.log(`Fuck, it's Wednesday or Thursday`);
+//     break;
+//   case 'friday':
+//     console.log('it is friday or whatever');
+//     break;
+//   case 'saturday':
+//   case 'sunday':
+//     console.log('enjoy the weekend');
+//     break;
+//   default:
+//     console.log('not a valid day');
+// }
+
+//? below is the say thing but using if/else
+
+// let day = 'monday';
+
+// if (day === 'monday') {
+//   console.log('Plan course structure');
+//   console.log('Go to coding meetup');
+// } else if(day === 'tuesday') {
+//   console.log('prepare theory videos')
+// }
+//! et cetera et cetar ad infinitum
+
